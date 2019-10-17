@@ -1,0 +1,6 @@
+framework module Pods_CJGLib_Tests {
+  umbrella header "Pods-CJGLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

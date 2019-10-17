@@ -1,0 +1,6 @@
+framework module CJGLib {
+  umbrella header "CJGLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
